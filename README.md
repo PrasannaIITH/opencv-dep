@@ -1,7 +1,7 @@
 # opencv-dep
 Intsallation of dependecies for openCV
 
-METHOD 1:
+METHOD 1:\\
 The following are the dependencies required for the installation of opencv installation
 
 sudo apt-get install build-essential
