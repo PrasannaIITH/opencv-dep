@@ -12,8 +12,8 @@ The following are the dependencies required for the installation of opencv insta
 Run the above commands in terminal
 
 ### METHOD -2 
-##### git clone github.com/PrasannaIITH/opencv-dep
-##### cd opencv-dep
-##### sudo chmod a+x opencv-dep.sh
+###### git clone github.com/PrasannaIITH/opencv-dep
+###### cd opencv-dep
+###### sudo chmod a+x opencv-dep.sh
 ###### sudo ./opencv-dep.sh
 
