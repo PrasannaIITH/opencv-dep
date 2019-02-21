@@ -1,6 +1,6 @@
 Installation of opencv dependeincies
 
-METHOD 1:
+METHOD 1
 The following are the dependencies required for the installation of opencv installation
 
 sudo apt-get install build-essential
@@ -9,7 +9,7 @@ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libp
 
 Run the above commands in terminal
 
-METHOD -2: 
+METHOD -2 
 git clone github.com/PrasannaIITH/opencv-dep
 cd opencv-dep
 sudo chmod a+x opencv-dep.sh
